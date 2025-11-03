@@ -1,4 +1,4 @@
-# SCT_DS_@  
+# SCT_DS_2  
 *SkillCraft Technology Internship - Task 02*
 
 ---
