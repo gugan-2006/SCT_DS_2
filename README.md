@@ -1,2 +1,29 @@
-# SCT_DS_2
-The goal of this task is to perform Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic dataset to understand the structure of the data, handle missing values, and find patterns and relationships that affect passenger survival.
+# SCT_PY_1  
+*SkillCraft Technology Internship - Task 01*
+
+---
+
+## 🎯 Objective
+Create a *bar chart or histogram* to visualize the distribution of a categorical or continuous variable,  
+such as the *distribution of ages* in a population.
+
+---
+
+## 🧾 Sample Dataset
+
+| Age Group     | Population (Millions) | Percentage |
+|----------------|------------------------|-------------|
+| 0–20 Years     | 512                    | 36.1%       |
+| 21–64 Years    | 807                    | 57.0%       |
+| 65+ Years      | 98                     | 6.9%        |
+
+---
+
+## 🧠 Tools Used
+- Python  
+- Matplotlib  
+
+---
+
+## 🖼 Output
+![Output Chart]()
