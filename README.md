@@ -1,5 +1,5 @@
-# SCT_PY_1  
-*SkillCraft Technology Internship - Task 01*
+# SCT_DS_@  
+*SkillCraft Technology Internship - Task 02*
 
 ---
 
