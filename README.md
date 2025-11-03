@@ -26,6 +26,5 @@ such as the *distribution of ages* in a population.
 ---
 
 ## 🖼 Output
-![Output Chart]([Screenshot 2025-11-03 203855.png](https://github.com/gugan-2006/SCT_DS_2/blob/main/Screenshot%202025-11-03%20203855.png))
-https://github.com/gugan-2006/SCT_DS_2/blob/main/WhatsApp%20Image%202025-11-03%20at%2020.40.23_33017057.jpg
+![Output Chart](Screenshot%202025-10-12%20072711.png)
 
